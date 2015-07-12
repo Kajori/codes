@@ -1,0 +1,16 @@
+#Nexus
+[This mpest analysis was conducted at local time 09:52AM on 07-10-2015 with seed = 389807. The branch length 9.0 indicates that branch is unestimable. The tree block contains the MP-EST trees (and their likelihood scores) generated from mulitple runs specified in the control file. Choose the one with the maximum likelihood score as the estimate of the species tree.]
+Begin trees;
+  translate
+	1 S1,
+	2 S2,
+	3 S3,
+	4 S4,
+	5 S5,
+	6 S6,
+	7 S7,
+	8 S8,
+	9 S9;
+  tree mpest [-130.644667] = (((7:9.0,((1:9.0,5:9.0):0.174704,4:9.0):0.997041):0.267107,(9:9.0,(2:9.0,3:9.0):7.000000):0.521536):0.434554,(6:9.0,8:9.0):0.847278);
+end;
+
